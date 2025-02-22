@@ -1,0 +1,19 @@
+.fun-text {
+    background-color: salmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element {
+    font-size: 24px;
+    text-decoration: solid;
+    background-color: lightgreen;
+}
+
+.larger-font {
+    font-size: 24px;
+}
